@@ -1,0 +1,8 @@
+# Dotfiles
+.turbo
+
+# Folders
+node_modules
+
+# Files
+*.log
